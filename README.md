@@ -5,10 +5,9 @@ Ressources open-source, workflows d'automatisation et bibliothèques de prompts 
 ## Objectif du projet
 Démocratiser l'accès aux outils d'intelligence artificielle générative et à l'automatisation sans barrière technique. Ce dépôt centralise les systèmes, scripts et modèles développés et partagés avec notre communauté.
 
-## Contenu en cours de déploiement
-* **Workflows & Automatisations** : Raccourcis iOS/macOS, scripts de traitement média et automatisations de productivité (Notion, Craft).
-* **Prompt Engineering** : Bibliothèques de prompts structurés pour la direction artistique, la création vidéo et le design.
-* **Outils Événementiels** : Modèles ouverts et outils web légers pour la logistique, le suivi opérationnel et la gestion de campagnes.
+## Contenu du dépôt
+* **`workflows-shortcuts.md`** : 10 automatisations et raccourcis iOS/macOS pour la création de contenu, la gestion de projet et la productivité.
+* **`prompts-ia.md`** : Bibliothèques de prompts structurés pour la direction artistique, la création vidéo et le design.
 
 ## Licence
 Distribué sous licence MIT. Libre d'utilisation, de modification et de partage.
